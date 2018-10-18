@@ -1,4 +1,4 @@
-package ua.zp.bracad.bratchvv.lab2;
+package ua.zp.brainacad.PaYwM;
 
 /**
  * Simple calculator printer.

@@ -1,4 +1,4 @@
-package ua.zp.bracad.bratchvv.lab2;
+package ua.zp.brainacad.PaYwM;
 
 /**
  * Boolean calculator, for simplify using boolean logic operators.
@@ -67,15 +67,27 @@ public class BooleanCalculator
     }
 
 
-    //TODO write JavaDoc
-    public int and() {
-        //TODO implement this method.
-        return 0;
+    /**
+     *
+     * @param value1 and operand.
+     *
+     * @param value2 and operand.
+     *
+     * @return and value.
+     */
+    public int and (int value1, int value2) {
+        return value1 & value2;
     }
 
-    //TODO write JavaDoc
-    public int or() {
-        //TODO implement this method.
-        return 0;
+    /**
+     *
+     * @param value1 operand.
+     *
+     * @param value2 or operand.
+     *
+     * @return or value.
+     */
+    public int or(int value1,int value2) {
+        return value1 | value2;
     }
 }

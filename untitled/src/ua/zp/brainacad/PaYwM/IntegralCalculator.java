@@ -1,12 +1,11 @@
-package ua.zp.bracad.bratchvv.lab2;
+package ua.zp.brainacad.PaYwM;
 
 /**
  * Basic integral calculator, for simplify using math operators.
  *
  * @author Vladimir Bratchikov.
  */
-public class IntegralCalculator
-{
+public class IntegralCalculator {
     /**
      * Sum two values.
      *

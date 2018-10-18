@@ -1,4 +1,4 @@
-package ua.zp.bracad.bratchvv.lab2;
+package ua.zp.brainacad.PaYwM;
 
 // TODO analog of previously calculators, but use Double type for it.
 public class DoubleCalculator
